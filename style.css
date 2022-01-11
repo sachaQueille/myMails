@@ -59,3 +59,19 @@ h6 {
 #btn-add:focus {
     outline:0;
 }
+
+#btn-search {
+    border-color: #1E90FF;
+    border-radius: 5px;
+    color: #1E90FF;
+    font-size: 16px;
+    padding: 6px;
+
+}
+
+#search-bar {
+    margin-right: 15px;
+    width: 60%;
+    padding: 8px 5px;
+    margin-left: 15px;;
+}
